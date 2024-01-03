@@ -17,6 +17,11 @@ in the CNN systems, where the input images can be considered as the
 input features. 
 
 Sample outputs:
+
+Image resized and augmented to 4x4 pixels dimension:
+
 <img width="748" alt="output-4x4" src="https://github.com/YusnaidiMY/image-preprocessing/assets/8178236/19d4dfbb-19af-4e20-bf52-aa979eb78992">
+
+Image resized and augmented to 320x320 pixels dimension:
 
 <img width="747" alt="output-320x320" src="https://github.com/YusnaidiMY/image-preprocessing/assets/8178236/95c5b582-e5f8-40f6-a192-903d0499e04c">
