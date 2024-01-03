@@ -1,16 +1,16 @@
 '''
-A python routine to resize and augment RGB images. The images are
-taken using smartphone with high resolution settings. With this 
+A Python routine to resize and augment RGB images. The images are
+taken using a smartphone with high-resolution settings. With this 
 routine, the images can be resized up to pixel-level size to
-as small as 1x1 pixels dimensions. The input images also are
-augmented in batch to different positioning and angles, and
-the resulted augmented images are resized before the augmentation
-to be in small pixels dimensions. 
+as small as 1x1 pixel dimensions. The input images also are
+augmented in batches to different positioning and angles, and
+the resulting augmented images are resized before the augmentation
+to be in small pixel dimensions. 
 
 On top of that, the augmented images can be viewed from the
 plotting graphs where the augmented images are compared side by side
 with the original image. The simple interactive plotter window
-are able to let the user to traverse the augmented images back and
+can let the user traverse the augmented images back and
 forth for easy viewing.
 
 This routine can help in the production of training and testing dataset
@@ -23,6 +23,7 @@ Email: yusnaidi.kl@utm.my
 Date: 3.1.2024
 Copyright RFTI@UTM.
 
+Download the source code at: https://github.com/YusnaidiMY/image-preprocessing
 '''
 
 import os
